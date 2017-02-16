@@ -6,5 +6,6 @@ public class Calculate {
 	    int second = Integer.valueOf(arg[1]);
 	    int sum = first + second;
 	    System.out.println("sum = " + sum);
+	    Systen.out.println("commit");
 	}
 }
